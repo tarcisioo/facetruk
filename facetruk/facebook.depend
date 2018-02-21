@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1476720367 source:c:\documents and settings\tarc016950\desktop\facebook\main.c
+	"myface.h"
+
+1475690605 c:\documents and settings\tarc016950\desktop\facebook\myface.h
+	<stdio.h>
+	<stdlib.h>
+
+1475693990 source:c:\documents and settings\tarc016950\desktop\facebook\myface.c
+	"myface.h"
+
+1477006009 source:c:\documents and settings\tarc016950.ltismb\desktop\facebook\myface.c
+	"myface.h"
+
+1477005418 c:\documents and settings\tarc016950.ltismb\desktop\facebook\myface.h
+	<stdio.h>
+	<stdlib.h>
+
+1477006293 source:c:\documents and settings\tarc016950.ltismb\desktop\facebook\main.c
+	"myface.h"
+
+1477003058 source:c:\users\tarcisio\desktop\c e c++\facebook\main.c
+	"myface.h"
+
+1477001818 c:\users\tarcisio\desktop\c e c++\facebook\myface.h
+	<stdio.h>
+	<stdlib.h>
+
+1477003058 source:c:\users\tarcisio\desktop\c e c++\facebook\myface.c
+	"myface.h"
+

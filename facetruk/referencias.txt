@@ -1,0 +1,3 @@
+http://pt.stackoverflow.com/questions/70140/como-%C3%A9-feito-o-loop-de-fim-de-arquivo
+https://virtual.ufmg.br/20162/pluginfile.php/228395/mod_resource/content/1/cap3.pdf
+https://www.vivaolinux.com.br/topico/C-C++/Ler-nomes-com-espaco
